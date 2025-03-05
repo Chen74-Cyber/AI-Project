@@ -1,3 +1,6 @@
+Observation
+After installing DeepSeek-R1, I tested a few prompts and noticed that the model takes a moment to think before answering. During this process, it displays its thought steps to the user, giving insight into how it arrives at a response. The AI also considers the user’s input along with previous questions to find connections, allowing it to generate more relevant and accurate answers. The performance of the model improves with size—the larger the model, the better its reasoning and accuracy. However, while larger models generally provide better responses, they may have slower token generation speeds due to increased computational demands. On the other hand, smaller models may struggle with complex queries. For example, when asking for movie or novel recommendations on a small model, it may fail to generate a proper response and instead default to generic outputs, such as introducing itself, because it lacks sufficient knowledge to answer effectively.
+
 👍 Advantages of Using DeepSeek-R1 with Ollama:
 Offline Capabilities:
 - Ollama allows you to run DeepSeek-R1 offline, which is perfect for environments with limited or no internet access.
