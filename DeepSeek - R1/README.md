@@ -14,10 +14,17 @@ Built with cutting-edge technology, DeepSeek-R1 is optimized for performance, ma
 
 ---
 
-## 💡 Performance Tips  
-✅ **Ensure Recommended Hardware** – At least **4 GB of RAM** and a **multi-core processor** are ideal for smooth performance.  
-✅ **Close Unnecessary Applications** – Free up system resources by closing other programs when running DeepSeek-R1.  
-✅ **Check Help for Assistance** – If you need help or want to explore more options, use the following command to view the help menu:  
+## 🔧 Installation Steps (with Ollama)  
+
+### 1️⃣ Install Ollama  
+Ollama must be installed on your system. Follow the official Ollama installation guide based on your operating system:  
+
+🔗 **[Ollama Website](https://ollama.com/)**  
+
+### 2️⃣ Pull and Run DeepSeek-R1  
+Once Ollama is installed, you need to download and run DeepSeek-R1.  
+
+Run the following command in **Command Prompt (Windows)** or **Terminal (Mac/Linux):**  
 
 ```sh
-ollama run deepseek-r1 --help
+ollama run deepseek-r1
