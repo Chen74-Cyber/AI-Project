@@ -45,5 +45,16 @@ You can find the models for image detection and image generation here:
 [DeepSeek Image Models](https://lnkd.in/eKHkAt9E)
 
 
+## Web UI Installation
+To run the web UI, install Gradio:
+```bash
+pip install gradio
+```
 
+From the demo directory, run:
+```bash
+python app_januspro.py
+```
+
+You’ll get a local host URL to access the demo and interact with JanusPro via your browser.
 
