@@ -2,6 +2,17 @@
 ## Introduction
 DeepSeek JanusPro is a cutting-edge AI model designed for advanced natural language processing and image-related tasks. Built by DeepSeek AI, JanusPro harnesses the power of deep learning to deliver state-of-the-art text generation, understanding, and image detection capabilities. Whether you're developing AI-powered applications, enhancing automation, or exploring creative AI solutions, JanusPro provides a robust and scalable foundation. With easy integration via Hugging Face and a user-friendly web interface, it empowers researchers, developers, and businesses to push the boundaries of artificial intelligence. 🚀
 
+# 📋 System Requirements for DeepSeek JanusPro
+
+**OS:** Windows (WSL recommended), macOS (limited), Linux (Ubuntu 20.04+)<br>
+**Storage:** 50GB+ free space (SSD/NVMe recommended)<br>
+**RAM:** 8GB (minimum), 16GB+ (recommended), 32GB+ (for full precision)<br>
+**CPU:** Multi-core (Intel i5 10th Gen / AMD Ryzen 5 or better)<br>
+**GPU:** RTX 3060 (12GB VRAM) minimum, RTX 4090 / A100 (24GB+ VRAM) recommended<br>
+**Libraries:** `torch`, `transformers`, `huggingface_hub`, `opencv-python`, `gradio`, `numpy`, `safetensors`, `diffusers`
+
+
+
 # Installation Guide
 ## Clone the Repository
 Clone the official Janus repository:
