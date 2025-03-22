@@ -66,4 +66,12 @@ To optimize performance while running DeepSeek-R1, follow these best practices:
 ✅ **Check Help for Assistance** – If you need help or want to explore more options, use the following command to view the help menu:  
 
 ```sh  
-ollama run deepseek-r1 --help  
+ollama run deepseek-r1 --help
+```
+
+---
+
+## 🔗 References
+- **DeepSeek-R1 on GitHub**: [https://github.com/deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+- **DeepSeek-R1 on Hugging Face**: [https://huggingface.co/deepseek-ai/DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1)
+
