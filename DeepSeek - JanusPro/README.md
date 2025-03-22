@@ -72,3 +72,9 @@ python app_januspro.py
 
 You’ll get a local host URL to access the demo and interact with JanusPro via your browser.
 
+---
+
+## 🔗 References
+- **DeepSeek AI JanusPro on Hugging Face**: [https://huggingface.co/deepseek-ai/Janus-Pro-7B](https://huggingface.co/deepseek-ai/Janus-Pro-7B)
+- **DeepSeek AI Janus GitHub Repository**: [https://github.com/deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)
+
