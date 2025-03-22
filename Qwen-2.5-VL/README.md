@@ -36,3 +36,9 @@ For **CUDA-enabled GPUs**, install PyTorch with CUDA:
 ```sh
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
+
+## 📚 References
+
+- [Qwen2.5-VL Official GitHub Repository](https://github.com/QwenLM/Qwen2.5-VL)
+- [Hugging Face Model Page](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct)
+
