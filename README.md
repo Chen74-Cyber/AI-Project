@@ -6,10 +6,9 @@ This repository is part of my internship project, where I explore different AI m
 ## 🧪 AI Models Tested
 1. DeepSeek - R1
 2. DeepSeek - JanusPro
-3. Qwen-2.5-VL
-4. Gemini 2.0 Experimental (In progress)
-5. Genma 3 (In progress)
-6. ... *(More to be added as I explore further)*
+3. Qwen-2.5-VL (Google Colab)
+4. Gemini 2.0 Experimental (Google Colab)
+
 
 ## 📋 What This Repository Includes
 - Installation Steps: Guides on setting up and running different AI models.
