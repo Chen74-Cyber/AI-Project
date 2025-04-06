@@ -2,9 +2,6 @@
 Image Detection:
 - Upload an image and ask JanusPro questions about it! The model processes the image and generates responses based on your query.
 
-Image Generation:
-- Provide text prompts, and JanusPro generates stunning images based on your descriptions. Perfect for visual creativity!
-
 ⚠️ Disadvantages:
 No Continuous Chat Functionality:
 - Currently, users need to re-enter a prompt for each session (image detection or generation), as continuous conversation is not yet supported.
